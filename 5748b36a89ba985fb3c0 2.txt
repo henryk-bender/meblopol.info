@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<links s1="5" s2="1" s3="" s4="1" s5="1" s6="0" s7="h" s8="0" s9="" s10="0" s11="5dbbde08ae9c2a77f8fc2184f6d869a1" st="1">
-<l>
-	<u w="450981">www.belvedere.com.pl</u>
-	<t>organizacja przyjęć Warszawa</t>
-	<a>organizacja przyjęć Warszawa</a>
-	<d>organizacja przyjęć Warszawa</d>
-</l>
-</links>
